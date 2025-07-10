@@ -1,0 +1,802 @@
+[
+  {
+    "car_id": 0,
+    "speed": 55,
+    "fuel_level": 11.92,
+    "latitude": 45.487169,
+    "longitude": 124.338,
+    "timestamp": 1752031315.745765
+  },
+  {
+    "car_id": 1,
+    "speed": 65,
+    "fuel_level": 51.57,
+    "latitude": 12.727313,
+    "longitude": 7.434,
+    "timestamp": 1752031315.8459637
+  },
+  {
+    "car_id": 2,
+    "speed": 11,
+    "fuel_level": 49.33,
+    "latitude": 67.148291,
+    "longitude": -30.967,
+    "timestamp": 1752031315.9461586
+  },
+  {
+    "car_id": 3,
+    "speed": 39,
+    "fuel_level": 99.29,
+    "latitude": -61.631534,
+    "longitude": 169.003,
+    "timestamp": 1752031316.0464127
+  },
+  {
+    "car_id": 4,
+    "speed": 37,
+    "fuel_level": 0.78,
+    "latitude": -52.104898,
+    "longitude": 79.468,
+    "timestamp": 1752031316.1466434
+  },
+  {
+    "car_id": 5,
+    "speed": 43,
+    "fuel_level": 81.58,
+    "latitude": 37.817429,
+    "longitude": -87.573,
+    "timestamp": 1752031316.2468448
+  },
+  {
+    "car_id": 6,
+    "speed": 56,
+    "fuel_level": 16.07,
+    "latitude": 9.141924,
+    "longitude": 45.599,
+    "timestamp": 1752031316.346955
+  },
+  {
+    "car_id": 7,
+    "speed": 72,
+    "fuel_level": 65.22,
+    "latitude": -69.720541,
+    "longitude": -35.947,
+    "timestamp": 1752031316.4475276
+  },
+  {
+    "car_id": 8,
+    "speed": 67,
+    "fuel_level": 65.83,
+    "latitude": 83.764685,
+    "longitude": 25.473,
+    "timestamp": 1752031316.5477097
+  },
+  {
+    "car_id": 9,
+    "speed": 35,
+    "fuel_level": 51.74,
+    "latitude": 50.888668,
+    "longitude": 56.583,
+    "timestamp": 1752031316.6479075
+  },
+  {
+    "car_id": 10,
+    "speed": 6,
+    "fuel_level": 39.28,
+    "latitude": 1.548054,
+    "longitude": 31.703,
+    "timestamp": 1752031316.7483184
+  },
+  {
+    "car_id": 11,
+    "speed": 7,
+    "fuel_level": 43.75,
+    "latitude": -31.845823,
+    "longitude": 101.586,
+    "timestamp": 1752031316.848827
+  },
+  {
+    "car_id": 12,
+    "speed": 50,
+    "fuel_level": 90.3,
+    "latitude": 13.574362,
+    "longitude": 4.919,
+    "timestamp": 1752031316.9489486
+  },
+  {
+    "car_id": 13,
+    "speed": 105,
+    "fuel_level": 34.66,
+    "latitude": -81.209596,
+    "longitude": 11.102,
+    "timestamp": 1752031317.0493178
+  },
+  {
+    "car_id": 14,
+    "speed": 59,
+    "fuel_level": 99.87,
+    "latitude": -43.854386,
+    "longitude": -123.621,
+    "timestamp": 1752031317.149443
+  },
+  {
+    "car_id": 15,
+    "speed": 103,
+    "fuel_level": 56.15,
+    "latitude": -27.936344,
+    "longitude": -77.646,
+    "timestamp": 1752031317.2497866
+  },
+  {
+    "car_id": 16,
+    "speed": 70,
+    "fuel_level": 47.44,
+    "latitude": 72.614499,
+    "longitude": -30.341,
+    "timestamp": 1752031317.35026
+  },
+  {
+    "car_id": 17,
+    "speed": 117,
+    "fuel_level": 24.9,
+    "latitude": 43.900156,
+    "longitude": 69.211,
+    "timestamp": 1752031317.4506862
+  },
+  {
+    "car_id": 18,
+    "speed": 127,
+    "fuel_level": 52.35,
+    "latitude": -52.664434,
+    "longitude": -156.872,
+    "timestamp": 1752031317.5508137
+  },
+  {
+    "car_id": 19,
+    "speed": 73,
+    "fuel_level": 80.9,
+    "latitude": -4.757215,
+    "longitude": -142.298,
+    "timestamp": 1752031317.6509461
+  },
+  {
+    "car_id": 20,
+    "speed": 24,
+    "fuel_level": 90.49,
+    "latitude": 11.123426,
+    "longitude": 19.564,
+    "timestamp": 1752031317.7510877
+  },
+  {
+    "car_id": 21,
+    "speed": 42,
+    "fuel_level": 57.81,
+    "latitude": 12.924544,
+    "longitude": -135.745,
+    "timestamp": 1752031317.8515162
+  },
+  {
+    "car_id": 22,
+    "speed": 21,
+    "fuel_level": 90.43,
+    "latitude": -26.532042,
+    "longitude": -126.552,
+    "timestamp": 1752031317.951935
+  },
+  {
+    "car_id": 23,
+    "speed": 83,
+    "fuel_level": 65.68,
+    "latitude": 52.351852,
+    "longitude": -30.264,
+    "timestamp": 1752031318.0522528
+  },
+  {
+    "car_id": 24,
+    "speed": 42,
+    "fuel_level": 92.22,
+    "latitude": -38.778856,
+    "longitude": -153.732,
+    "timestamp": 1752031318.1525338
+  },
+  {
+    "car_id": 25,
+    "speed": 48,
+    "fuel_level": 84.17,
+    "latitude": -17.846665,
+    "longitude": -171.006,
+    "timestamp": 1752031318.2529447
+  },
+  {
+    "car_id": 26,
+    "speed": 63,
+    "fuel_level": 61.43,
+    "latitude": -34.153959,
+    "longitude": 105.716,
+    "timestamp": 1752031318.3531117
+  },
+  {
+    "car_id": 27,
+    "speed": 150,
+    "fuel_level": 99.05,
+    "latitude": 74.160005,
+    "longitude": -47.962,
+    "timestamp": 1752031318.4533172
+  },
+  {
+    "car_id": 28,
+    "speed": 5,
+    "fuel_level": 57.58,
+    "latitude": -84.01815,
+    "longitude": 95.028,
+    "timestamp": 1752031318.5535545
+  },
+  {
+    "car_id": 29,
+    "speed": 24,
+    "fuel_level": 84.63,
+    "latitude": 22.031536,
+    "longitude": 80.927,
+    "timestamp": 1752031318.6536822
+  },
+  {
+    "car_id": 30,
+    "speed": 127,
+    "fuel_level": 40.49,
+    "latitude": 66.100686,
+    "longitude": -167.88,
+    "timestamp": 1752031318.7537796
+  },
+  {
+    "car_id": 31,
+    "speed": 59,
+    "fuel_level": 98.2,
+    "latitude": 84.758784,
+    "longitude": 25.645,
+    "timestamp": 1752031318.853896
+  },
+  {
+    "car_id": 32,
+    "speed": 51,
+    "fuel_level": 63.48,
+    "latitude": -25.033308,
+    "longitude": -150.373,
+    "timestamp": 1752031318.954375
+  },
+  {
+    "car_id": 33,
+    "speed": 139,
+    "fuel_level": 84.38,
+    "latitude": 36.582495,
+    "longitude": 104.511,
+    "timestamp": 1752031319.054578
+  },
+  {
+    "car_id": 34,
+    "speed": 52,
+    "fuel_level": 71.31,
+    "latitude": -63.796103,
+    "longitude": -27.652,
+    "timestamp": 1752031319.155312
+  },
+  {
+    "car_id": 35,
+    "speed": 122,
+    "fuel_level": 68.16,
+    "latitude": 77.024539,
+    "longitude": -79.978,
+    "timestamp": 1752031319.2555282
+  },
+  {
+    "car_id": 36,
+    "speed": 2,
+    "fuel_level": 61.18,
+    "latitude": -21.142988,
+    "longitude": -95.774,
+    "timestamp": 1752031319.3564537
+  },
+  {
+    "car_id": 37,
+    "speed": 125,
+    "fuel_level": 25.07,
+    "latitude": -4.483649,
+    "longitude": -47.321,
+    "timestamp": 1752031319.4566045
+  },
+  {
+    "car_id": 38,
+    "speed": 139,
+    "fuel_level": 75.16,
+    "latitude": 11.105876,
+    "longitude": -98.827,
+    "timestamp": 1752031319.5570703
+  },
+  {
+    "car_id": 39,
+    "speed": 111,
+    "fuel_level": 21.91,
+    "latitude": 75.666981,
+    "longitude": -138.041,
+    "timestamp": 1752031319.6573014
+  },
+  {
+    "car_id": 40,
+    "speed": 48,
+    "fuel_level": 23.94,
+    "latitude": 55.249298,
+    "longitude": -105.863,
+    "timestamp": 1752031319.7574658
+  },
+  {
+    "car_id": 41,
+    "speed": 119,
+    "fuel_level": 67.49,
+    "latitude": -86.225799,
+    "longitude": -69.596,
+    "timestamp": 1752031319.8582354
+  },
+  {
+    "car_id": 42,
+    "speed": 33,
+    "fuel_level": 61.69,
+    "latitude": -45.985487,
+    "longitude": 158.592,
+    "timestamp": 1752031319.9585433
+  },
+  {
+    "car_id": 43,
+    "speed": 4,
+    "fuel_level": 94.28,
+    "latitude": -49.767688,
+    "longitude": -167.358,
+    "timestamp": 1752031320.0586689
+  },
+  {
+    "car_id": 44,
+    "speed": 33,
+    "fuel_level": 24.04,
+    "latitude": 8.25282,
+    "longitude": -127.928,
+    "timestamp": 1752031320.1589696
+  },
+  {
+    "car_id": 45,
+    "speed": 102,
+    "fuel_level": 60.24,
+    "latitude": -35.815128,
+    "longitude": 67.676,
+    "timestamp": 1752031320.25933
+  },
+  {
+    "car_id": 46,
+    "speed": 53,
+    "fuel_level": 82.05,
+    "latitude": 53.71435,
+    "longitude": -6.152,
+    "timestamp": 1752031320.3597486
+  },
+  {
+    "car_id": 47,
+    "speed": 80,
+    "fuel_level": 34.67,
+    "latitude": -69.87165,
+    "longitude": -152.553,
+    "timestamp": 1752031320.4600735
+  },
+  {
+    "car_id": 48,
+    "speed": 27,
+    "fuel_level": 96.19,
+    "latitude": -49.942803,
+    "longitude": 95.726,
+    "timestamp": 1752031320.5606418
+  },
+  {
+    "car_id": 49,
+    "speed": 123,
+    "fuel_level": 77.24,
+    "latitude": -20.84404,
+    "longitude": 90.099,
+    "timestamp": 1752031320.6607764
+  },
+  {
+    "car_id": 50,
+    "speed": 96,
+    "fuel_level": 81.5,
+    "latitude": 32.17226,
+    "longitude": -89.493,
+    "timestamp": 1752031320.761375
+  },
+  {
+    "car_id": 51,
+    "speed": 78,
+    "fuel_level": 13.97,
+    "latitude": -77.865818,
+    "longitude": 37.378,
+    "timestamp": 1752031320.8615851
+  },
+  {
+    "car_id": 52,
+    "speed": 76,
+    "fuel_level": 22.23,
+    "latitude": 58.752015,
+    "longitude": 73.593,
+    "timestamp": 1752031320.9627337
+  },
+  {
+    "car_id": 53,
+    "speed": 148,
+    "fuel_level": 50.65,
+    "latitude": -72.313121,
+    "longitude": 123.555,
+    "timestamp": 1752031321.063038
+  },
+  {
+    "car_id": 54,
+    "speed": 18,
+    "fuel_level": 58.74,
+    "latitude": 40.702636,
+    "longitude": -81.646,
+    "timestamp": 1752031321.1632457
+  },
+  {
+    "car_id": 55,
+    "speed": 138,
+    "fuel_level": 7.12,
+    "latitude": 41.587045,
+    "longitude": -174.803,
+    "timestamp": 1752031321.2636342
+  },
+  {
+    "car_id": 56,
+    "speed": 132,
+    "fuel_level": 69.17,
+    "latitude": -12.771659,
+    "longitude": -34.55,
+    "timestamp": 1752031321.3641596
+  },
+  {
+    "car_id": 57,
+    "speed": 111,
+    "fuel_level": 42.78,
+    "latitude": -32.774892,
+    "longitude": 116.969,
+    "timestamp": 1752031321.4645696
+  },
+  {
+    "car_id": 58,
+    "speed": 110,
+    "fuel_level": 64.27,
+    "latitude": -46.435429,
+    "longitude": -167.489,
+    "timestamp": 1752031321.5646973
+  },
+  {
+    "car_id": 59,
+    "speed": 110,
+    "fuel_level": 80.53,
+    "latitude": -61.143155,
+    "longitude": -77.279,
+    "timestamp": 1752031321.665326
+  },
+  {
+    "car_id": 60,
+    "speed": 27,
+    "fuel_level": 70.58,
+    "latitude": 46.904042,
+    "longitude": 13.852,
+    "timestamp": 1752031321.7655106
+  },
+  {
+    "car_id": 61,
+    "speed": 140,
+    "fuel_level": 45.79,
+    "latitude": 77.66641,
+    "longitude": 31.664,
+    "timestamp": 1752031321.8658504
+  },
+  {
+    "car_id": 62,
+    "speed": 33,
+    "fuel_level": 11.77,
+    "latitude": -3.959015,
+    "longitude": 35.76,
+    "timestamp": 1752031321.9662597
+  },
+  {
+    "car_id": 63,
+    "speed": 5,
+    "fuel_level": 40.75,
+    "latitude": 9.382838,
+    "longitude": -62.805,
+    "timestamp": 1752031322.0667439
+  },
+  {
+    "car_id": 64,
+    "speed": 96,
+    "fuel_level": 97.36,
+    "latitude": 71.964797,
+    "longitude": -78.363,
+    "timestamp": 1752031322.1672814
+  },
+  {
+    "car_id": 65,
+    "speed": 15,
+    "fuel_level": 44.68,
+    "latitude": 19.791045,
+    "longitude": -54.642,
+    "timestamp": 1752031322.2675567
+  },
+  {
+    "car_id": 66,
+    "speed": 49,
+    "fuel_level": 70.93,
+    "latitude": -42.691367,
+    "longitude": 8.755,
+    "timestamp": 1752031322.3680515
+  },
+  {
+    "car_id": 67,
+    "speed": 68,
+    "fuel_level": 34.59,
+    "latitude": -10.302654,
+    "longitude": -147.043,
+    "timestamp": 1752031322.4684966
+  },
+  {
+    "car_id": 68,
+    "speed": 49,
+    "fuel_level": 82.72,
+    "latitude": -61.375603,
+    "longitude": 171.091,
+    "timestamp": 1752031322.5691924
+  },
+  {
+    "car_id": 69,
+    "speed": 120,
+    "fuel_level": 98.09,
+    "latitude": 35.995717,
+    "longitude": -10.622,
+    "timestamp": 1752031322.669438
+  },
+  {
+    "car_id": 70,
+    "speed": 91,
+    "fuel_level": 56.72,
+    "latitude": 47.934524,
+    "longitude": -109.728,
+    "timestamp": 1752031322.7696927
+  },
+  {
+    "car_id": 71,
+    "speed": 0,
+    "fuel_level": 62.22,
+    "latitude": 20.952802,
+    "longitude": 116.966,
+    "timestamp": 1752031322.8702805
+  },
+  {
+    "car_id": 72,
+    "speed": 146,
+    "fuel_level": 25.42,
+    "latitude": 18.636712,
+    "longitude": 66.786,
+    "timestamp": 1752031322.9707336
+  },
+  {
+    "car_id": 73,
+    "speed": 7,
+    "fuel_level": 65.3,
+    "latitude": -75.070505,
+    "longitude": 143.117,
+    "timestamp": 1752031323.0709631
+  },
+  {
+    "car_id": 74,
+    "speed": 66,
+    "fuel_level": 48.49,
+    "latitude": 22.362089,
+    "longitude": 162.536,
+    "timestamp": 1752031323.1717358
+  },
+  {
+    "car_id": 75,
+    "speed": 98,
+    "fuel_level": 72.78,
+    "latitude": 51.646071,
+    "longitude": 86.065,
+    "timestamp": 1752031323.2722142
+  },
+  {
+    "car_id": 76,
+    "speed": 59,
+    "fuel_level": 44.83,
+    "latitude": -35.08502,
+    "longitude": -175.731,
+    "timestamp": 1752031323.372633
+  },
+  {
+    "car_id": 77,
+    "speed": 145,
+    "fuel_level": 17.56,
+    "latitude": -6.728252,
+    "longitude": 76.864,
+    "timestamp": 1752031323.473011
+  },
+  {
+    "car_id": 78,
+    "speed": 0,
+    "fuel_level": 65.88,
+    "latitude": 18.919178,
+    "longitude": -24.091,
+    "timestamp": 1752031323.573092
+  },
+  {
+    "car_id": 79,
+    "speed": 88,
+    "fuel_level": 55.84,
+    "latitude": 4.331065,
+    "longitude": -118.639,
+    "timestamp": 1752031323.6732945
+  },
+  {
+    "car_id": 80,
+    "speed": 149,
+    "fuel_level": 68.11,
+    "latitude": 65.008895,
+    "longitude": 78.839,
+    "timestamp": 1752031323.7734096
+  },
+  {
+    "car_id": 81,
+    "speed": 35,
+    "fuel_level": 86.11,
+    "latitude": 79.839377,
+    "longitude": 143.495,
+    "timestamp": 1752031323.8738334
+  },
+  {
+    "car_id": 82,
+    "speed": 7,
+    "fuel_level": 96.94,
+    "latitude": -71.208889,
+    "longitude": 122.192,
+    "timestamp": 1752031323.9740489
+  },
+  {
+    "car_id": 83,
+    "speed": 104,
+    "fuel_level": 60.31,
+    "latitude": 8.789055,
+    "longitude": -140.379,
+    "timestamp": 1752031324.0743625
+  },
+  {
+    "car_id": 84,
+    "speed": 46,
+    "fuel_level": 90.61,
+    "latitude": -63.116817,
+    "longitude": -120.957,
+    "timestamp": 1752031324.1745398
+  },
+  {
+    "car_id": 85,
+    "speed": 132,
+    "fuel_level": 63.86,
+    "latitude": 79.377207,
+    "longitude": 149.687,
+    "timestamp": 1752031324.2748003
+  },
+  {
+    "car_id": 86,
+    "speed": 89,
+    "fuel_level": 83.46,
+    "latitude": -34.355383,
+    "longitude": -144.845,
+    "timestamp": 1752031324.375199
+  },
+  {
+    "car_id": 87,
+    "speed": 47,
+    "fuel_level": 58.34,
+    "latitude": -60.934225,
+    "longitude": 174.45,
+    "timestamp": 1752031324.4754238
+  },
+  {
+    "car_id": 88,
+    "speed": 47,
+    "fuel_level": 15.47,
+    "latitude": -44.770088,
+    "longitude": -126.161,
+    "timestamp": 1752031324.5755877
+  },
+  {
+    "car_id": 89,
+    "speed": 47,
+    "fuel_level": 89.31,
+    "latitude": 69.082819,
+    "longitude": -86.875,
+    "timestamp": 1752031324.6757042
+  },
+  {
+    "car_id": 90,
+    "speed": 139,
+    "fuel_level": 56.19,
+    "latitude": 0.851306,
+    "longitude": -27.329,
+    "timestamp": 1752031324.7758398
+  },
+  {
+    "car_id": 91,
+    "speed": 56,
+    "fuel_level": 87.13,
+    "latitude": 10.43262,
+    "longitude": 176.744,
+    "timestamp": 1752031324.8760746
+  },
+  {
+    "car_id": 92,
+    "speed": 56,
+    "fuel_level": 15.76,
+    "latitude": -1.902498,
+    "longitude": -85.848,
+    "timestamp": 1752031324.976216
+  },
+  {
+    "car_id": 93,
+    "speed": 121,
+    "fuel_level": 15.14,
+    "latitude": 25.444914,
+    "longitude": 22.68,
+    "timestamp": 1752031325.0765493
+  },
+  {
+    "car_id": 94,
+    "speed": 2,
+    "fuel_level": 62.61,
+    "latitude": -59.392106,
+    "longitude": -179.105,
+    "timestamp": 1752031325.176772
+  },
+  {
+    "car_id": 95,
+    "speed": 121,
+    "fuel_level": 49.97,
+    "latitude": -39.210332,
+    "longitude": -31.07,
+    "timestamp": 1752031325.27701
+  },
+  {
+    "car_id": 96,
+    "speed": 116,
+    "fuel_level": 70.18,
+    "latitude": -80.259208,
+    "longitude": -162.958,
+    "timestamp": 1752031325.3774576
+  },
+  {
+    "car_id": 97,
+    "speed": 150,
+    "fuel_level": 88.52,
+    "latitude": 39.73859,
+    "longitude": -62.171,
+    "timestamp": 1752031325.4777036
+  },
+  {
+    "car_id": 98,
+    "speed": 68,
+    "fuel_level": 17.4,
+    "latitude": -14.866383,
+    "longitude": 122.415,
+    "timestamp": 1752031325.5781922
+  },
+  {
+    "car_id": 99,
+    "speed": 64,
+    "fuel_level": 71.61,
+    "latitude": 9.972662,
+    "longitude": 153.254,
+    "timestamp": 1752031325.678332
+  }
+]
